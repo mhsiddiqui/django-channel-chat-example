@@ -1,0 +1,4 @@
+*.pyc
+db.sqlite3
+mysite/__pycache__
+chat/__pycache__
